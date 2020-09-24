@@ -1,10 +1,10 @@
-# Programming Fundamentals: Menggunakan Bahasa Pemrograman Java (Intro)
+# Pemrograman Fundamental Menggunakan Bahasa Java (Intro)
 
 > Kuasai fundamental bahasa pemrograman Java, maka kamu sudah cukup modal untuk menguasai sebagian besar bahasa pemrograman di dunia ini.
 
 ## Selamat datang
 
-Selamat datang di materi pembelajaran **Programming Fundamentals - Menggunakan Bahasa Pemrograman Java**. Pada materi ini kita akan belajar dan memahami tentang konsep fundamental (dasar) pemrograman pada umumnya menggunakan bahasa pemrograman Java. 
+Selamat datang di materi pembelajaran **Pemrograman Fundamental - Menggunakan Bahasa Pemrograman Java**. Pada materi ini kita akan belajar dan memahami tentang konsep fundamental (dasar) pemrograman pada umumnya menggunakan bahasa pemrograman Java. 
 
 ### Untuk siapa materi ini?
 
@@ -16,23 +16,23 @@ Materi ini juga dibuat untuk **siapa saja** yang berkeinginan mempelajari pemrog
 
 **TAPI**, materi ini **tidak dirancang** untuk mereka yang **menginginkan cara-cara instan untuk belajar pemrograman**. Tidak juga untuk mereka yang **malas-malasan** membaca dan praktik pemrograman. 
 
-**Bagi** kalian yang **sudah menguasai** fundamental pemrograman ini, materi ini bisa dijadikan bahan tambahan. Namun, kalian **sangat disarankan** untuk mengasah kemampuan dengan materi-materi yang jauh lebih mahir dari materi ini.
+**Bagi** kalian yang **sudah menguasai** Pemrograman Fundamental ini, materi ini bisa dijadikan bahan tambahan. Namun, kalian **sangat disarankan** untuk mengasah kemampuan dengan materi-materi yang jauh lebih mahir dari materi ini.
 
 Silakan pelajari materi tentang **Programming Intermediate** atau **Programming Advance** biar skill programming kamu lebih meningkat.
 
-### Mengapa belajar Programming Fundamentals?
+### Mengapa belajar Pemrograman Fundamental?
 
-Umumnya, **fundamental (dasar) pemrograman** antara bahasa pemrograman yang satu dengan bahasa pemrograman yang lain adalah **sama**. Perbedaan terletak pada bentuk **sintak** pada bahasa pemrograman tersebut. 
+Umumnya, **pemrograman fundamental (dasar)** antara bahasa pemrograman yang satu dengan bahasa pemrograman yang lain adalah **sama**. Perbedaan terletak pada bentuk **sintak** pada bahasa pemrograman tersebut. 
 
 Kita **tidak perlu rakus belajar** semua bahasa pemrograman, karena pasti bakal ketemu konsep-konsep yang itu-itu saja. Makanya orang-orang yang **belajar pemrograman secara otodidak** bakal sering kali mudah mengikuti tutorial yang ada, tapi kerepotan ketika harus membuat variasi program yang lain.
 
 Itu karena kebanyakan tutorial memberikan **contoh kasus yang sifatnya umum** dan kurang tepat guna. Ya, walaupun juga banyak tutorial yang sudah bagus dan layak untuk diikuti.
 
-Sehingga bagi kita yang baru belajar (apalagi otodidak) **butuh bertahun-tahun** untuk mengerti tentang fundamental pemrograman ini. 
+Sehingga bagi kita yang baru belajar (apalagi otodidak) **butuh bertahun-tahun** untuk mengerti tentang Pemrograman Fundamental ini. 
 
-Tapi, dengan memahami tentang fundamental pemrograman ini, kita akan **lebih mudah untuk belajar hal-hal baru** terkait pemrograman dalam bahasa pemrograman apa saja. Menarik, kan?
+Tapi, dengan memahami tentang Pemrograman Fundamental ini, kita akan **lebih mudah untuk belajar hal-hal baru** terkait pemrograman dalam bahasa pemrograman apa saja. Menarik, kan?
 
-Ya, karena fundamental pemrograman bersifat umum **dan tidak terikat dengan bahasa pemrogramannya**. Jadi, kita bisa gunakan Java, PHP, Javascript, Swift atau bahkan Python.
+Ya, karena Pemrograman Fundamental bersifat umum **dan tidak terikat dengan bahasa pemrogramannya**. Jadi, kita bisa gunakan Java, PHP, Javascript, Swift atau bahkan Python.
 
 ### Mengapa menggunakan Java?
 
@@ -42,7 +42,7 @@ Menggunakan Java **bukanlah sebuah kewajiban**, kita dapat menggunakan bahasa pe
 
 Salah satu contoh ketatnya aturan sintak di Java adalah **keharusan untuk mendeklarasikan** variabel dan tipe datanya sebelum digunakan pada kode program berikutnya. Sedangkan di Javascript dan PHP kita tidak diharuskan untuk melakukan deklarasi variabel dan tipe data.
 
-Konsep deklarasi adalah salah satu **bagian dari fundamental pemrograman** yang harusnya dipahami oleh programmer. Ini sebabnya programmer yang memulai karier belajar programming dari Javascript kurang memahami hal ini. Dan ini juga alasan mengapa Java kita pilih sebagai bahasa pemrograman yang akan kita gunakan dalam pembelajaran Programming Fundamentals ini. 
+Konsep deklarasi adalah salah satu **bagian dari Pemrograman Fundamental** yang harusnya dipahami oleh programmer. Ini sebabnya programmer yang memulai karier belajar programming dari Javascript kurang memahami hal ini. Dan ini juga alasan mengapa Java kita pilih sebagai bahasa pemrograman yang akan kita gunakan dalam pembelajaran Pemrograman Fundamental ini. 
 
 Sekali lagi, bahasa pemrograman Java yang digunakan pada materi ini hanya sebagai salah satu **bentuk implementasi nyata** konsep dasar pemrograman yang sedang kita pelajari. Kita dapat mengimplementasikan konsep-konsep tersebut pada bahasa pemrograman lainnya.
 
@@ -50,7 +50,7 @@ Sekali lagi, bahasa pemrograman Java yang digunakan pada materi ini hanya sebaga
 
 Naah, ini nih yang gemesin 😂
 
-Mempelajari fundamental pemrograman **tidak sama** dengan membuat program. Sama halnya seperti mempelajari cara menggunakan kamera digital **tidak sama** dengan membuat film. Sama halnya seperti mempelajari tentang cara menggunakan gergaji **tidak sama** dengan membuat rumah.
+Mempelajari Pemrograman Fundamental **tidak sama** dengan membuat program. Sama halnya seperti mempelajari cara menggunakan kamera digital **tidak sama** dengan membuat film. Sama halnya seperti mempelajari tentang cara menggunakan gergaji **tidak sama** dengan membuat rumah.
 
 Mengerti tentang ISO Aperture dan Zooming **bukan berarti** bisa membuat film. Mengerti dan mahir memotong kayu menggunakan gergaji **bukan berarti** sudah bisa membuat rumah. Jaaauh... 😂😂
 
@@ -62,110 +62,63 @@ Semua **butuh waktu**, kita tidak perlu membabi buta mempelajari berbagai bahasa
 
 Ketika muncul permasalahan yang fatal, kita juga sebagai programmer akan direpotkan.
 
-Untuk itu, pada tahapan ini sebaiknya kita fokus memahami fundamental pemrograman, maka kita akan menemukan bahwa konsep-konsep berikutnya menjadi jauh lebih mudah dipahami. 👍
+Untuk itu, pada tahapan ini sebaiknya kita fokus memahami Pemrograman Fundamental, maka kita akan menemukan bahwa konsep-konsep berikutnya menjadi jauh lebih mudah dipahami. 👍
 
 Setelah itu silakan ambil materi yang lebih expert. 
 
 ## Materi pembelajaran
 
-Inilah materi-materi pembelajaran Programming Fundamentals yang akan kita bahas selanjutnya. Materi ini disusun berurutan untuk memudahkan dalam memahami dan mempraktikkan konsep-konsep yang dipelajari.
-1. Pendahuluan
-
+Inilah materi-materi pembelajaran Pemrograman Fundamental yang akan kita bahas selanjutnya. Materi ini disusun berurutan untuk memudahkan dalam memahami dan mempraktikkan konsep-konsep yang dipelajari.
+1. **Pendahuluan**
    Sebelum mulai mempelajari hal teknis, kita perlu melakukan persiapan belajar pemrograman yang benar. Kemudian kita juga harus mengetahui **jalur belajar pemrograman yang benar** agar hasil pembelajaran lebih maksimal. Setelah itu kita pelajari proses SDLC untuk mengetahui dimana posisi kita saat ini, dan apa saja yang akan kita hadapi berikutnya.
-
-2. Pemrograman Dasar
-
+2. **Pemrograman Dasar**
    Mengetahui **struktur dasar sebuah program** itu sangat penting. Karena apabila diamati, struktur ini akan digunakan di semua kode program yang akan kita buat. 
-
-   Selanjutnya mengetahui tentang **algoritma, psudocode dan flowchart** akan membantu kita memvisualisasikan dan menyampaikan proses program yang akan kita buat kepada orang lain. 
-
-3. Menulis Kode Program 
-
-   Inilah saatnya kita menulis kode program (source code) untuk pertama kali, setelah 2 (dua) bab sebelumnya kita memahami konsep yang abstrak (belum bisa dibuktikan). Dengan jadinya sebuah kode program (source code) kita akan melihat sendiri algoritma sebelumnya dapat dijalankan di program atau tidak.
-
-   Selain itu kita juga akan memulai **kebiasaan baru**, yaitu menulis kode program dengan benar. Memanfaatkan fitur komentar untuk memudahkan kita membaca kode program yang dibuat. Serta, cara-cara yang harus kita lakukan ketika terjadi error pada program yang kita buat. Inilah kunci paling fundamental dalam pemrograman. Dapat menyelesaikan permasalahan ketika terjadi error. 👍
-
-4. Data, Variabel dan Tipe Data
-
-   Ini adalah materi paling dasar dan paling mudah untuk dikuasai. Sekaligus paling sering digunakan dalam membuat program. Seorang programmer seharusnya sangat menguasai konsep ini seperti layaknya seseorang berbicara, mengalir begitu saja dengan lancarnya. Materi ini juga ada di sebagian besar bahasa pemrograman yang ada. Materinya pun mirip, tentunya dengan variasi-variasi yang tidak perlu dikhawatirkan.
-
+Selanjutnya mengetahui tentang **algoritma, psudocode dan flowchart** akan membantu kita memvisualisasikan dan menyampaikan proses program yang akan kita buat kepada orang lain. 
+3. **Menulis Kode Program** 
+Inilah saatnya kita menulis kode program (source code) untuk pertama kali, setelah 2 (dua) bab sebelumnya kita memahami konsep yang abstrak (belum bisa dibuktikan). Dengan jadinya sebuah kode program (source code) kita akan melihat sendiri algoritma sebelumnya dapat dijalankan di program atau tidak.
+   Selain itu kita juga akan memulai **kebiasaan baru**, yaitu menulis kode program dengan benar. Memanfaatkan fitur komentar untuk memudahkan kita membaca kode program yang dibuat. Serta, cara-cara yang harus kita lakukan ketika terjadi error pada program yang kita buat. Inilah kunci paling fundamental di dalam pemrograman. Dapat menyelesaikan permasalahan ketika terjadi error. 👍
+4. **Data, Variabel dan Tipe Data**
+Ini adalah materi paling dasar dan paling mudah untuk dikuasai. Sekaligus paling sering digunakan dalam membuat program. Seorang programmer seharusnya sangat menguasai konsep ini seperti layaknya seseorang berbicara, mengalir begitu saja dengan lancarnya. Materi ini juga ada di sebagian besar bahasa pemrograman yang ada. Materinya pun mirip, tentunya dengan variasi-variasi yang tidak perlu dikhawatirkan.
    Menguasai materi ini sama artinya kita sudah menguasai semua materi yang serupa pada sebagian besar bahasa pemrograman yang ada. Keren gak tuh? Sekali dayung, puluhan pulau terlampaui. Hehe...😂
-
-5. Operator
-
-   Tidak jauh berbeda dengan materi sebelumnya. Materi tentang operator juga merupakan **materi yang selalu ada** di dalam semua bahasa pemrograman. Kita dapat menghemat waktu belajar satu materi yang fundamental, maka semua materi operator yang ada di dalam bahasa pemrograman akan bisa kita kuasai.
-
+5. **Operator**
+Tidak jauh berbeda dengan materi sebelumnya. Materi tentang operator juga merupakan **materi yang selalu ada** di dalam semua bahasa pemrograman. Kita dapat menghemat waktu belajar satu materi yang fundamental, maka semua materi operator yang ada di dalam bahasa pemrograman akan bisa kita kuasai.
    Karena variabel, tipe data dan operator selalu berpasangan di dalam bahasa pemrograman. Ada variabel, ada operator. Begitu sebaliknya. 
-
-6. Expression, Statement dan Block
-
-   Dua materi sebelum ini adalah kunci utama kita merangkai sebuah kode program dalam bentuk paling sederhana, menjadi sebuah expression. Dari expression ini kita rangkai lagi menjadi statement, dari statement kita rangkai lagi menjadi block. Lama kelamaan kode program kita akan menjadi kode program yang utuh dan dapat menyelesaikan permasalahan.
-
+6. **Expression, Statement dan Block**
+Dua materi sebelum ini adalah kunci utama kita merangkai sebuah kode program dalam bentuk paling sederhana, menjadi sebuah expression. Dari expression ini kita rangkai lagi menjadi statement, dari statement kita rangkai lagi menjadi block. Lama kelamaan kode program kita akan menjadi kode program yang utuh dan dapat menyelesaikan permasalahan.
    Dengan begitu, struktur program yang sudah kita bahas sebelumnya akan dapat dibuktikan dengan kode program yang sudah kita rangkai.
-
-7. Package
-
-   Setelah kita membahas tentang merangkai kode program dari yang paling sederhana menjadi sebuah block. Kita lanjutkan lagi dengan mengelola file-file yang berisi kode program tadi. Mirip dengan cara kita menyusun file-file yang ada di komputer. Hanya saja kita juga perlu belajar bagaimana cara menggunakan kode-kode program yang ada di file-file tersebut.
-
+7. **Package**
+Setelah kita membahas tentang merangkai kode program dari yang paling sederhana menjadi sebuah block. Kita lanjutkan lagi dengan mengelola file-file yang berisi kode program tadi. Mirip dengan cara kita menyusun file-file yang ada di komputer. Hanya saja kita juga perlu belajar bagaimana cara menggunakan kode-kode program yang ada di file-file tersebut.
    Dengan begitu, kita bisa mengatur dan mengelompokkan kode program tersebut agar mudah dikelola dan mudah digunakan.
-
-8. Basic Input dan Output
-
-   Banyak cara mengambil data input dari keyboard atau dari teks untuk digunakan di dalam kode program yang kita buat. Pada materi ini kita akan membahas dan mempraktikkan teknik dasar input dan output yang digunakan pada bahasa pemrograman Java.
-
+8. **Basic Input dan Output**
+Banyak cara mengambil data input dari keyboard atau dari teks untuk digunakan di dalam kode program yang kita buat. Pada materi ini kita akan membahas dan mempraktikkan teknik dasar input dan output yang digunakan pada bahasa pemrograman Java.
    Perlu juga kita ingat, teknik ini **tidak sama antara bahasa pemrograman** satu dengan bahasa pemrograman lainnya. Dengan begitu, konsep yang ada di Java belum tentu dapat digunakan pada bahasa pemrograman lainnya.
-
-9. Percabangan
-
-   Percabangan adalah **bagian dari fundamental pemrograman** yang wajib dikuasai. Konsep ini tidak terikat dengan bahasa pemrogramannya. Kita dapat dengan mudah memahami konsep percabangan yang ada di berbagai bahasa pemrograman dengan cukup menguasai konsep ini di salah satu bahasa pemrograman saja. 
-
+9. **Percabangan**
+   Percabangan adalah **bagian dari Pemrograman Fundamental** yang wajib dikuasai. Konsep ini tidak terikat dengan bahasa pemrogramannya. Kita dapat dengan mudah memahami konsep percabangan yang ada di berbagai bahasa pemrograman dengan cukup menguasai konsep ini di salah satu bahasa pemrograman saja. 
    Setelah kita mengerti dan dapat mempraktikkan konsep ini, silakan eksplorasi materi yang sama di berbagai bahasa pemrograman, kita akan menemukan hal yang sama persis pada bahasa pemrograman tersebut. Tapi tentunya dengan sintak (cara penulisan kode program) yang berbeda.
-
-10. Perulangan
-
-    Selain percabangan, materi perulangan juga serupa. Sama-sama **materi fundamental pemrograman** untuk sebagian besar bahasa pemrograman. Cukup menguasai konsep perulangan ini di Java, kita akan mudah memahami materi yang sama di bahasa pemrograman lainnya.
-
+10. **Perulangan**
+    Selain percabangan, materi perulangan juga serupa. Sama-sama **materi Pemrograman Fundamental** untuk sebagian besar bahasa pemrograman. Cukup menguasai konsep perulangan ini di Java, kita akan mudah memahami materi yang sama di bahasa pemrograman lainnya.
     Hanya saja, materi ini tidak bisa dianggap enteng, karena membutuhkan latihan-latihan agar benar-benar terbiasa dengan konsep perulangan. Berbagai solusi dapat dibuat dengan mengandalkan kedua materi ini (percabangan dan perulangan).
-
     Materi ini akan semakin menantang ketika kita **menggabungkan antara percabangan dan perulangan** untuk mencari solusi dari kasus program yang kita buat.
-
-11. Array
-
+11. **Array**
     Umumnya array termasuk kepada tipe data, hanya saja konsep array tidak seperti variabel dan tipe data sebelumnya. Memahami tentang fundamental array akan membantu kita untuk menghasilkan program yang lebih kompleks. Banyak sekali algoritma-algoritma yang ada **dapat dengan mudah diselesaikan menggunakan array**. Sehingga materi array menjadi materi wajib yang harus kita kuasai.
-
-    Oiya, array juga termasuk bagian dari fundamental pemrograman untuk berbagai bahasa pemrograman. Cukup bagi kita menguasai konsep array di Java sebagai modal untuk belajar konsep array pada bahasa pemrograman lainnya.
-
-12. Exception
-
+    Oiya, array juga termasuk bagian dari Pemrograman Fundamental untuk berbagai bahasa pemrograman. Cukup bagi kita menguasai konsep array di Java sebagai modal untuk belajar konsep array pada bahasa pemrograman lainnya.
+12. **Exception**
     Dalam membuat sebuah program, kita akan berhadapan dengan kemungkinan terjadinya error ketika program tersebut dijalankan. Di bahasa pemrograman Java, error tersebut **sering dipanggil dengan istilah exception**. 
-
     Memahami tentang exception di Java juga akan menambah wawasan kita untuk mencegah terjadinya error di kode program. Tidak semua bahasa pemrograman memiliki konsep ini dengan nama exception. Beberapa bahasa pemrograman menggunakan istilah Error Handling untuk konsep yang serupa. 
-
     Materi ini juga sebagai langkah awal kita mempelajari celah bug yang mungkin terjadi di kode program yang kita buat. Gimana? Keren, kan?
-
-13. File Handling
-
+13. **File Handling**
     Materi file handling bukanlah materi yang sama dengan package. Materi ini membahas tentang teknik dasar sebuah kode program dalam **membaca dan menulis data di dalam sebuah file**. 
-
     Dengan menguasai materi ini, kita dapat mengambil berbagai data yang ada di dalam sebuah file, kemudian kita olah di dalam kode program yang telah kita buat, selanjutnya hasil olahan tersebut disimpan ke dalam file lain dengan format yang kita inginkan.
-
     Tentunya teknik file handling tidak sama antara bahasa pemrograman satu dengan bahasa pemrograman lainnya. Dan tidak pula sepenuhnya berbeda antar bahasa pemrograman.
-
     Memahami konsep file handling di Java dapat menjadi modal dasar untuk materi yang sama pada bahasa pemrograman lainnya.
-
-14. String
-
+14. **String**
     Di dalam bahasa pemrograman Java, String merupakan **tipe data yang khusus** dibuat. Berbeda dengan bahasa pemrograman lainnya, tipe data string dianggap sebagai tipe data yang biasa.
-
     Untuk itu, pada tahap ini kita akan membahas beberapa kekhususan yang ada pada String. Hal ini perlu untuk kita ketahui karena String juga merupakan tipe data yang paling sering digunakan dalam berbagai bahasa pemrograman.
-
-15. Static Method
-
-    Sebagai penutup dari materi programming fundamentals, kita akan membahas **struktur baru** yaitu Static Method. Hampir di sebagian besar bahasa pemrograman memiliki konsep method yang sama, namun dengan nama dan istilah yang berbeda-beda. 
-    
+15. **Static Method**
+    Sebagai penutup dari materi Pemrograman Fundamental, kita akan membahas **struktur baru** yaitu Static Method. Hampir di sebagian besar bahasa pemrograman memiliki konsep method yang sama, namun dengan nama dan istilah yang berbeda-beda. 
     Dengan memahami method, kita akan dapat membuat program yang jauh lebih kompleks namun **tetap mudah untuk dipahami**. Sehingga materi ini wajib kita kuasai sebelum melanjutkan ke materi yang lebih expert.
 
-Itulah semua materi pembahasan kita pada pembelajaran **Programming Fundamentals - Menggunakan Bahasa Pemrograman Java**. Diharapkan kita dapat mempelajari hal ini dengan benar dan konsep yang kuat. Karena sebagian besar materi ini dapat kita jumpai pada berbagai bahasa pemrograman lainnya.
+Itulah semua materi pembahasan kita pada pembelajaran **Pemrograman Fundamental - Menggunakan Bahasa Pemrograman Java**. Diharapkan kita dapat mempelajari hal ini dengan benar dan konsep yang kuat. Karena sebagian besar materi ini dapat kita jumpai pada berbagai bahasa pemrograman lainnya.
 
 Dengan begitu kita dapat menghemat banyak waktu untuk menguasai berbagai bahasa pemrograman lainnya dengan cukup menguasai materi ini menggunakan bahasa pemrograman Java.
 
@@ -200,7 +153,6 @@ Kalo yang ini jangan dipusingin dulu ya? Yang pasti ada beberapa poin yang akan 
 1. **Mengingat**, kita perlu setidaknya mengingat konsep dasar dari setiap materi-materi yang kita berikan. Selain konsep, kita juga wajib mengingat istilah-istilah baru yang mungkin saja muncul dalam setiap materi kita. Kemampuan mengingat ini akan menjadi modal dasar untuk mudah memahami materi-materi yang lebih advance. Nah, latihan-latihan yang kita persiapkan akan membantu dalam mengingat banyak hal dengan mudah.
 
 2. **Memahami**, jangan hanya cukup mengingat saja. Karena itu tandanya kita masih memiliki skill paling dasar sekali. Kita harus bisa memahami maksud dari definisi, konsep dan sebagainya. Dengan bisa memahami, kita akan mudah mengingat konsep-konsep besar yang lebih kompleks. Nah, latihan dan tugas adalah cara paling tepat untuk memahami konsep-konsep tersebut. 
-
    Apa buktinya kita sudah bisa memahami sebuah konsep? Yaitu kita dapat menceritakan ulang atau menjelaskan konsep tersebut dengan gaya bahasa kita sendiri. 👍
 
 3. **Menerapkan**, kalo hanya mengingat dan memahami itu artinya kita belum bisa berbuat apa-apa. Kerjakan latihan-latihan dan tugas-tugas yang disediakan, maka akan membantu menerapkan semua pengetahuan yang kita pelajari dari materi ini menjadi sesuatu yang menghasilkan. Tidak ada gunanya ingat dan paham kalo akhirnya tidak bisa diterapkan menjadi sebuah program yang berhasil.

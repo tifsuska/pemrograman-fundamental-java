@@ -1,4 +1,4 @@
-# Programming Fundamentals: Operator
+# Pemrograman Fundamental: Operator
 
 > Quote of the day
 

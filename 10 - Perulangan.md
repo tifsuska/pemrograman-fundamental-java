@@ -1,4 +1,4 @@
-# Programming Fundamentals: Perulangan
+# Pemrograman Fundamental: Perulangan
 
 > Quote of the day
 
@@ -9,20 +9,16 @@ Salah satu kelebihan komputer adalah dapat melakukan kalkulasi dengan akurat dan
 Sebagian besar proses di dalam program adalah perulangan. Proses yang sama diulang-ulang sekian banyak sesuai dengan kebutuhan. Namun secara prinsip, sebuah perulangan memiliki setidaknya beberapa hal penting, yaitu:
 
 1. Posisi awal
-
-   Setiap perulangan harus dimulai dari posisi tertentu, ini disebut posisi awal. Misalnya ulang dari 1 sampai sekian. Angka 1 adalah posisi awal perulangan.
-
+Setiap perulangan harus dimulai dari posisi tertentu, ini disebut posisi awal. Misalnya ulang dari 1 sampai sekian. Angka 1 adalah posisi awal perulangan.
+   
 2. Kondisi
-
-   Kita perlu tahu kondisi seperti apa yang memicu perulangan terus berjalan atau berhenti. Misalnya ketika nilai masih kurang dari 100, maka ulangi lagi.
-
+Kita perlu tahu kondisi seperti apa yang memicu perulangan terus berjalan atau berhenti. Misalnya ketika nilai masih kurang dari 100, maka ulangi lagi.
+   
 3. Proses
-
-   Untuk apa melakukan perulangan jika tidak ada apa-apa. Harusnya ada proses-proses yang akan diulangi.
-
+Untuk apa melakukan perulangan jika tidak ada apa-apa. Harusnya ada proses-proses yang akan diulangi.
+   
 4. Perubahan (update)
-
-   Perulangan bukan berarti sama secara keseluruhan. Ada data dan nilai tertentu yang harus berubah mendekati titik akhir perulangan. Jangan sampai kalkulasi bermasalah sehingga proses perulangan tidak berhenti.
+Perulangan bukan berarti sama secara keseluruhan. Ada data dan nilai tertentu yang harus berubah mendekati titik akhir perulangan. Jangan sampai kalkulasi bermasalah sehingga proses perulangan tidak berhenti.
 
 Dengan adanya keempat hal tersebut, dalam implementasinya kita harus mampu mengidentifikasi keempatnya.
 

@@ -1,4 +1,4 @@
-# Programming Fundamentals: Array
+# Pemrograman Fundamental: Array
 
 > Quote of the day
 

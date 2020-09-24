@@ -1,4 +1,4 @@
-# Programming Fundamentals: Exception
+# Pemrograman Fundamental: Exception
 
 > Quote of the day
 

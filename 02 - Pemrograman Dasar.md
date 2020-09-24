@@ -1,4 +1,4 @@
-# Programming Fundamentals: Pemrograman Dasar
+# Pemrograman Fundamental: Pemrograman Dasar
 
 > Manusia dijadikan dengan sifatnya tergesa-gesa. Tapi itu bukan berarti bagus, harus diatasi.
 

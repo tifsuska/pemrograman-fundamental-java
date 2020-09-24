@@ -1,4 +1,4 @@
-# Programming Fundamentals: Static Method
+# Pemrograman Fundamental: Static Method
 
 > Bla bla bla 
 

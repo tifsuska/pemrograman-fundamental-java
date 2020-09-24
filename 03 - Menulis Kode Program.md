@@ -1,4 +1,4 @@
-# Programming Fundamentals: Menulis Kode Program
+# Pemrograman Fundamental: Menulis Kode Program
 
 > Menulis kode program adalah proses panjang untuk mewujudkan algoritma yang sudah kita buat supaya algoritma itu dapat berjalan dengan baik.
 
@@ -8,7 +8,7 @@ Proses ini sama persis ketika kita ingin membuat sebuah program, kita rancang al
 
 Maka, materi ini kita akan mulai menulis kode program dan menjalankan program tersebut. Supaya pembelajaran kita jadi lebih maksimal, sebaiknya kita sudah mempersiapkan kebutuhan yang harus ada sebelum melanjutkan ke pembahasan berikutnya.
 
-Silakan lihat bagian persiapan belajar programming di bab [Pendahuluan](01 - Pendahuluan.md) untuk mengetahui persiapan apa saja yang harus kita siapkan. Kalo semua persiapan sudah dilakukan, saatnya kita mulai membuat program pertama.
+Silakan lihat bagian persiapan belajar programming di bab [Pendahuluan](/pemrograman-fundamental-java-pendahuluan) untuk mengetahui persiapan apa saja yang harus kita siapkan. Kalo semua persiapan sudah dilakukan, saatnya kita mulai membuat program pertama.
 
 ## Program Salam
 
@@ -140,13 +140,10 @@ Menulis program harus mengikuti aturan-aturan sintaks yang berlaku. Beda bahasa 
 Untuk membuat kode program yang ditulis menjadi lebih baik, berikut beberapa hal yang perlu diketahui.
 
 1. Case Sensitive
-
-   Sebagian besar bahasa pemrograman memiliki aturan case sensitive dalam penulisan nama. Artinya nama "pesan" akan dianggap berbeda dengan nama "Pesan" ataupun "PESAN". Dengan begitu penggunaan nama harus diperhatikan. Aturan ini disebut dengan case sensitive. Aturan case sensitive biasanya berlaku untuk nama variabel, nama fungsi dan nama class.
-
+Sebagian besar bahasa pemrograman memiliki aturan case sensitive dalam penulisan nama. Artinya nama "pesan" akan dianggap berbeda dengan nama "Pesan" ataupun "PESAN". Dengan begitu penggunaan nama harus diperhatikan. Aturan ini disebut dengan case sensitive. Aturan case sensitive biasanya berlaku untuk nama variabel, nama fungsi dan nama class.
+   
 2. File
-
-   Setiap class pada Java ditulis ke dalam sebuah file dengan nama file sama persis dengan nama class-nya. Misalnya kita membuat class **Kotak**, maka class itu ditulis ke dalam file dengan nama **Kotak.java** dan disimpan di folder khusus.
-
+Setiap class pada Java ditulis ke dalam sebuah file dengan nama file sama persis dengan nama class-nya. Misalnya kita membuat class **Kotak**, maka class itu ditulis ke dalam file dengan nama **Kotak.java** dan disimpan di folder khusus.
    Aturan penulisan nama class adalah **menggabungkan** satu atau beberapa kata, dan diawal setiap kata menggunakan huruf kapital. Penulisan nama class dan nama file melarang penggunaan **spasi** pada nama.
 
    | Nama class yang disarankan | Nama class yang TIDAK disarankan    |
@@ -156,7 +153,7 @@ Untuk membuat kode program yang ditulis menjadi lebih baik, berikut beberapa hal
    | BaseConnection             | baseconnection atau Base-Connection |
    | HtmlModel                  | HTMLModel                           |
    | StatusPeminjamanBuku       | status_peminjaman_buku              |
-
+   
    Ketika sebuah class dibuat, pastikan class tersebut disimpan ke dalam file dengan nama yang sama persis dengan nama classnya. Perhatikan contoh berikut!
 
    | Nama class           | Nama file                 |
@@ -166,9 +163,8 @@ Untuk membuat kode program yang ditulis menjadi lebih baik, berikut beberapa hal
    | BaseConnection       | BaseConnection.java       |
    | HtmlModel            | HtmlModel.java            |
    | StatusPeminjamanBuku | StatusPeminjamanBuku.java |
-
+   
 3. Indentation
-
    Indentation digunakan untuk membedakan blok kode program agar mudah dibaca. Perhatikan kode program berikut ini!
 
    ```java
@@ -288,20 +284,19 @@ Penggunaan catatan dan informasi pada kode program di atas akan memudahkan kita 
 Banyak cara yang bisa digunakan untuk membuat komentar pada Java. Kita akan bahas satu persatu cara-caranya sebagai berikut.
 
 1. Single line comment (komentar satu baris)
-
-   Paling sering catatan yang dibuat adalah catatan singkat yang hanya satu baris. Java menggunakan karakter `//` (double slash) di awal komentar pada setiap baris. Lihat contoh berikut.
-
-   ```java
+Paling sering catatan yang dibuat adalah catatan singkat yang hanya satu baris. Java menggunakan karakter `//` (double slash) di awal komentar pada setiap baris. Lihat contoh berikut.
+   
+```java
    ...
    	// Komentar singkat
    	int nilai = 10;
    	double pi = 3.14;
    ...
    ```
-
-   Kita dapat membuat komentar di atas kode program yang akan kita komentari. Tidak ada batasan membuat komentar. Hanya saja komentar yang lebih dari satu baris harus menggunakan karakter `//` di awal setiap baris komentarnya. Lihat contoh berikut.
-
-   ```java
+   
+Kita dapat membuat komentar di atas kode program yang akan kita komentari. Tidak ada batasan membuat komentar. Hanya saja komentar yang lebih dari satu baris harus menggunakan karakter `//` di awal setiap baris komentarnya. Lihat contoh berikut.
+   
+```java
    ...
        // Deklarasi variabel
        // nilai dan pi
@@ -309,22 +304,21 @@ Banyak cara yang bisa digunakan untuk membuat komentar pada Java. Kita akan baha
    	double pi = 3.14;
    ...
    ```
-
-   Cara di atas masih dimaklumi, namun tidak direkomendasikan. Karena kita masih bisa membuat komentar tersebut menjadi satu baris saja. Tapi, kalau memang kita ingin membuat komentar yang cukup panjang, ada baiknya kita gunakan multiline comment.
-
+   
+Cara di atas masih dimaklumi, namun tidak direkomendasikan. Karena kita masih bisa membuat komentar tersebut menjadi satu baris saja. Tapi, kalau memang kita ingin membuat komentar yang cukup panjang, ada baiknya kita gunakan multiline comment.
    Single line comment juga dapat digunakan di akhir sebuah baris kode program. Perhatikan contoh berikut.
 
    ```java
-   ...
+...
        int nilai = 10; // nilai awal
    	double pi = 3.14; // sebaiknya pake Math.PI
    ...
    ```
-
+   
    Membuat komentar di ujung setiap baris kode program dapat memudahkan kita membuat catatan rinci untuk satu baris tersebut. Sedangkan komentar di atas kode program bisa digunakan untuk catatan yang lebih umum. Perhatikan contoh komentar berikut ini.
 
    ```java
-   // Program algoritma Bubble Sort
+// Program algoritma Bubble Sort
    public class BubbleSortBasic {
        public static void main(String[] args) {
            
@@ -350,14 +344,13 @@ Banyak cara yang bisa digunakan untuk membuat komentar pada Java. Kita akan baha
        }
    }
    ```
-
+   
    Semua dapat kita kasih komentar sesuai kebutuhan. Agar kode program yang kita buat dapat memudahkan kita mengingat kembali dan bahkan memahami kembali kode program tersebut.
 
 2. Multiline comment (komentar banyak baris)
-
-   Komentar dalam bentuk satu baris sangat praktis namun memiliki kekurangan. Perhatikan kode program berikut.
-
-   ```java
+Komentar dalam bentuk satu baris sangat praktis namun memiliki kekurangan. Perhatikan kode program berikut.
+   
+```java
    public class FiboSimple {
        public static void main(String[] args) {
            
@@ -392,7 +385,6 @@ Banyak cara yang bisa digunakan untuk membuat komentar pada Java. Kita akan baha
    ```
    
    Penggunaan komentar di atas terasa sangat detail. Ini menyebabkan kita sebagai programmer justru semakin tidak terbantu. Penggunaan komentar yang terlalu banyak menunjukkan kode program tersebut perlu untuk dijelaskan dengan catatan yang lengkap.
-   
    Multiline comment dapat digunakan untuk permasalahan tadi. Dengan membuat komentar yang lengkap, kita justru lebih terbantu dalam memahami kode program. Perhatikan kode program berikut.
    
       ```java

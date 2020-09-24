@@ -1,4 +1,4 @@
-# Programming Fundamentals: Basic Input dan Output
+# Pemrograman Fundamental: Basic Input dan Output
 
 > Quote of the day
 
