@@ -8,7 +8,7 @@ Programming itu isinya hanya percabangan dan perulangan. Jika diinputkan data A 
 
 Setiap program berawal dari input data. Bentuk data bisa saja bermacam-macam. Data yang diinputkan akan diproses dan menghasilkan output. Perhatikan kembali gambar berikut!
 
-![Input Proses Output](assets\program.png)
+![Input Proses Output](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/program.png)
 
 Biasanya proses akan sangat bervariasi. Misalnya jika yang diinputkan adalah angka, maka proses yang digunakan adalah proses A. Sebaliknya jika yang diinputkan adalah String, maka proses yang digunakan adalah String.
 
@@ -23,7 +23,7 @@ Secara umum, percabangan terdiri dari 2 jenis, yaitu:
 
 Dalam flowchart, percabangan dapat digambarkan seperti berikut.
 
-![image-20200819211549539](assets\image-20200819211549539.png)
+![image-20200819211549539](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200819211549539.png)
 
 Pada flowchart di atas terdapat percabangan yang ditentukan oleh sebuah kondisi. Apabila nilai yang diinputkan lebih besar sama dengan `55`, maka program akan menampilkan output `lulus`, tidak tidak maka ditampilkan output `gagal`.
 
@@ -57,7 +57,7 @@ Perhatikan kembali kode program di atas. Kita memiliki 2 baris kode `System.out.
 
 Statement if-else digunakan untuk percabangan. Artinya hanya akan menjalankan salah satu blok kode yang ada, blok if atau blok else.
 
-![image-20200820085619282](assets\image-20200820085619282.png)
+![image-20200820085619282](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200820085619282.png)
 
 Percabangan seperti ini dapat kita manfaatkan untuk banyak jenis program, dari yang sederhana sampai yang kompleks. 
 
@@ -208,7 +208,7 @@ Dengan kode seperti di atas, maka program akan menghasilkan output yang lebih ba
 
 Tapi, percabangan pada statement if else if sebenarnya penggunaan blok if di dalam blok if. Perhatikan ilustrasi berikut!
 
-![image-20200820100524910](assets\image-20200820100524910.png)
+![image-20200820100524910](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200820100524910.png)
 
 Pada kode program juga dapat kita modifikasi menjadi seperti berikut.
 

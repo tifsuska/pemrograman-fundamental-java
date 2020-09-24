@@ -78,19 +78,19 @@ Pertama, buatlah sebuah project.
 
 Project dapat berupa folder biasa saja, kemudian kita akan membuat class dan packagenya di dalam project tersebut. Perhatikan gambar berikut!
 
-![image-20200916072931824](G:\My Drive\Works\HyNusantara\Blog\Programming Fundamental with Java\assets\image-20200916072931824.png)
+![image-20200916072931824](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200916072931824.png)
 
 Kedua, buatlah dua buah folder/direktori dengan nama **src** dan **out**. Kedua folder ini sebenarnya dapat diberi nama sesuai dengan keinginan. Silahkan sesuaikan jika nama foldernya berbeda.
 
-![image-20200916073344160](G:\My Drive\Works\HyNusantara\Blog\Programming Fundamental with Java\assets\image-20200916073344160.png)
+![image-20200916073344160](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200916073344160.png)
 
 Ketiga, buatlah sebuah file **Main.java** di dalam folder **src** tadi. Gunakan text editor seperti Notepad (Windows) atau nano (Linux) atau IDE yang biasa digunakan. 
 
-![image-20200916073552805](G:\My Drive\Works\HyNusantara\Blog\Programming Fundamental with Java\assets\image-20200916073552805.png)
+![image-20200916073552805](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200916073552805.png)
 
 Keempat, buatlah beberapa folder/direktori lainnya di dalam folder src tadi, kemudian buatlah beberapa file class di dalam folder yang baru. Misalnya jadi seperti ini.
 
-![image-20200916074511971](G:\My Drive\Works\HyNusantara\Blog\Programming Fundamental with Java\assets\image-20200916074511971.png)
+![image-20200916074511971](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200916074511971.png)
 
 Berikut kode program yang ada di dalam class Salam.
 

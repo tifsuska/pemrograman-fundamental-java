@@ -14,7 +14,7 @@ Ada 2 (dua) istilah yang harus kita pahami pada awal pembahasan ini, yaitu Opera
 
 Kenali operator dan operand yang ada di dalam kode program. Perhatikan cuplikan kode program berikut ini!
 
-![image-20200816091520808](assets\image-20200816091520808.png)
+![image-20200816091520808](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200816091520808.png)
 
 Tanda ➕ pada ilustrasi di atas adalah sebuah operator. Sedangkan angka 10 dan angka 25 adalah operand. Ketika operator dijalankan terhadap operand, maka operator tersebut akan menghasilkan sebuah data baru. Pada contoh di atas, angka `10` ditambahkan dengan angka `25` akan menghasilkan angka baru, yaitu angka `35` dengan tipe data `int`. 
 
@@ -35,7 +35,7 @@ Pada baris ke 4 kode program di atas, simbol `=` (sama dengan) adalah juga opera
 
 Pada baris ke 5 kode program di atas terdapat 2 (dua) operator yang berbeda, yaitu operator `=` dan operator `+`. Kedua operator ini akan dioperasikan berurutan sesuai dengan ketentuan tertentu. Perhatikan ilustrasi berikut!
 
-![image-20200816095056011](assets\image-20200816095056011.png)
+![image-20200816095056011](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200816095056011.png)
 
 Apabila terdapat beberapa operator dalam satu instruksi, maka setiap operator akan diproses sesuai dengan ketentuan dan tingkat prioritas dari masing-masing operator. Ketentuan ini disebut dengan precedence (lihat pada subbab terakhir).
 
@@ -105,7 +105,7 @@ Pada subbagian ini kita akan menjelaskan tentang beberapa jenis operator yang pa
 
 Operator yang paling sering adalah operator assignment, yaitu simbol `=` (sama dengan). Operator ini berfungsi untuk menyalin atau menyimpan data ke dalam sebuah variabel. Data yang disimpan adalah operand sebelah kanan, sedangkan variabel tempat menyimpan adalah operand sebelah kiri.
 
-![image-20200816102424343](assets\image-20200816102424343.png)
+![image-20200816102424343](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200816102424343.png)
 
 Operator ini hanya ada satu saja, yaitu `=` (sama dengan).
 

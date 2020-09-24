@@ -110,7 +110,7 @@ Kode program di atas akan menghasilkan output,
 
 Ini karena angka `2` berada pada indeks ke 0 pada array. Perhatikan ilustrasi array berikut!
 
-![image-20200821092737621](assets\image-20200821092737621.png)
+![image-20200821092737621](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200821092737621.png)
 
 Setiap elemen di dalam array selalu memiliki nomor indeks yang dimulai dari 0. Dengan demikian, ketika kita ingin mengakses array indeks ke 3, maka kita dapat memanggil dengan cara berikut.
 
@@ -506,11 +506,11 @@ Perhatikan kode program berikut, kemudian jelaskan bagaimana kode program terseb
 
 Array multidimensi sederhananya adalah array yang menyimpan data array juga. Pada array 1 dimensi kita dapat mengilustrasikan array tersebut seperti pada gambar berikut.
 
-![image-20200821092737621](assets\image-20200821092737621.png)
+![image-20200821092737621](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200821092737621.png)
 
 Sedangkan pada array 2 dimensi, ilustrasi array menjadi seperti berikut.
 
-![image-20200919220712735](G:\My Drive\Works\HyNusantara\Blog\Programming Fundamental with Java\assets\image-20200919220712735.png)
+![image-20200919220712735](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200919220712735.png)
 
 Dari ilustrasi di atas dapat dilihat bahwa kita memiliki array yang di dalam masing-masing datanya menyimpan array juga. Sehingga cara pemanggilan data di dalam array multidimensi juga ada sedikit perbedaan. Perhatikan kode program berikut!
 

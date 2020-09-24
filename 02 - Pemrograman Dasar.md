@@ -14,7 +14,7 @@ Apa itu strateginya? Pahami struktur dasar sebuah program!
 
 Sebuah program adalah kumpulan sebuah proses-proses kecil yang dilakukan oleh program tersebut. Beruntungnya, proses-proses kecil itu bisa jadi adalah sebuah program juga yang fungsinya lebih kecil dari program tadi. Coba perhatikan ilustrasi berikut!
 
-![Struktur Program](assets/program-struc.png)
+![Struktur Program](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/program-struc.png)
 
 Dari ilustrasi di atas, kita bisa pahami bahwa, sebuah program adalah kumpulan program-program yang lebih kecil, dan program yang lebih kecil adalah kumpulan program-program yang jauh lebih kecil lagi. 
 
@@ -30,7 +30,7 @@ Itulah mengapa kita sangat disarankan untuk mulai belajar dari contoh-contoh yan
 
 Sebuah program sebenarnya memiliki pola yang sama. Baik program kecil maupun program skala besar. Apa itu?
 
-![Struktur Program](assets/program.png)
+![Struktur Program](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/program.png)
 
 Ya, sebuah program biasanya terdiri dari input, proses dan output. Konsep ini harus benar-benar kita pahami terlebih dahulu.
 
@@ -102,7 +102,7 @@ Berikut adalah algoritmanya:
 
 Perhatikan kembali algoritma di atas. Algoritma tersebut sebenarnya hanya rincian dari input, proses dan output saja. Algoritma tersebut urutan sebenarnya adalah input, proses dan output.
 
-![Algoritma program memasak air](assets/algoritma-1.png)
+![Algoritma program memasak air](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/algoritma-1.png)
 
 Nah, dengan demikian, kita sudah dapat simpulkan kalo setiap program yang akan kita buat, pastilah akan menggunakan pola algoritma dan struktur dasar input, proses dan output.
 
@@ -166,13 +166,13 @@ Perhatikan kasus-kasus berikut ini! Kemudian buatlah pseudocode dari masing-masi
 
 Notasi algoritma lainnya adalah diagram alir (flowchart). Flowchart adalah salah satu notasi dalam bentuk diagram atau simbol. Perhatikan diagram berikut!
 
-![Flowchart memanaskan air](assets/flowchart.png)
+![Flowchart memanaskan air](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/flowchart.png)
 
 Diagram di atas menunjukkan proses memanaskan air mentah menjadi air panas. Notasi flowchart lebih mudah dipahami oleh orang umum karena berbentuk simbol. Aliran proses juga jelas dari mana dan ke mana. 
 
 Untuk membuat sebuah flowchart, kita juga harus mengetahui simbol-simbol dasar yang digunakan pada flowchart. Penggunaan simbol yang salah akan menyebabkan orang lain menjadi tidak mengerti dengan algoritma yang kita buat.
 
-![Simbol flowchart](assets/flow-simbol.png)
+![Simbol flowchart](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/flow-simbol.png)
 
 Selain keenam simbol di atas, masih ada beberapa simbol lainnya yang juga ada pada flowchart. Namun, untuk tahapan ini kita cukup mengetahui keenam simbol di atas. 
 

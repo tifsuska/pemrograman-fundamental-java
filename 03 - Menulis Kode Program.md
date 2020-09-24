@@ -111,7 +111,7 @@ Ketika kode program tadi dijalankan, komputer tidak langsung menjalankan kode pr
 
 Yang terjadi adalah kode program diubah menjadi bahasa mesin atau bahasa komputer. Setelah itu barulah dieksekusi oleh komputer.
 
-![Bagaimana kode program berjalan](assets/how-code-run.png)
+![Bagaimana kode program berjalan](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/how-code-run.png)
 
 Kalo kita sudah memahami bagaimana sebuah kode program bisa dieksekusi, kita akan paham bahwa apapun bahasa pemrogramannya, ketika akan dijalankan, kode program tersebut akan diterjemahkan dalam bentuk bahasa mesin dan dieksekusi/dijalankan dalam bentuk bahasa mesin.
 

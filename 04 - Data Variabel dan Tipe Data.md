@@ -679,7 +679,7 @@ Pada kode program di atas kita melakukan proses inisialisasi variabel `nama`, va
 
 Untuk memudahkan kita memahami deklarasi dan inisialisasi, perhatikan potongan kode program berikut!
 
-![Deklarasi dan Inisialisasi](assets/image-20200711083712350.png)
+![Deklarasi dan Inisialisasi](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200711083712350.png)
 
 Bagian deklarasi pada kode program tersebut adalah `String label`, sedangkan bagian inisialisasi adalah `String nama = "Budi"` (tanpa tanda titik-koma, ya). 
 
@@ -1002,7 +1002,7 @@ Perhatikan kode program berikut ini. Identifikasi kesalahan dalam penggunaan dek
 
 Pada saat deklarasi atau inisialisasi, kita menentukan tipe data apa yang digunakan pada variabel yang dideklarasi. Perhatikan ilustrasi berikut.
 
-![Data, Variabel dan Tipe Data](assets/data-var-tipe.png)
+![Data, Variabel dan Tipe Data](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/data-var-tipe.png)
 
 Gambar tersebut adalah inisialisasi sebuah variabel dengan tipe data String. Tipe data String adalah tipe data khusus untuk menyimpan data teks. Makanya variabel `nama` yang kita buat menyimpan sebuah teks yaitu `"Budi"`. 
 
@@ -1042,7 +1042,7 @@ Di dalam pemrograman Java, terdapat beberapa tipe data yang dapat digunakan dala
 
    Tipe data primitif di Java adalah tipe data yang memang sudah built-in (bawaan) dan merupakan tipe data dasar di Java. Tipe data primitif terbagi menjadi beberapa bagian. Secara rinci dapat di perhatikan ilustrasi berikut.
 
-   ![Tipe Data Primitif](assets/tipe-data-primitif.png)
+   ![Tipe Data Primitif](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/tipe-data-primitif.png)
 
    Tipe data primitif yang dapat digunakan pada Java berjumlah 8 tipe data (simbol kotak abu-abu). Kita dapat menggunakan tipe data tersebut sesuai kebutuhan. Perhatikan kode program berikut.
 
@@ -1145,11 +1145,11 @@ public class TipeDataString {
 
 Kode program di atas menunjukkan cara penggabungan 2 (dua) atau lebih teks menjadi data String yang benar. Perhatikan ilustrasi berikut ini.
 
-![Struktur String](assets/image-20200711062912173.png)
+![Struktur String](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200711062912173.png)
 
 Begitu juga ketika kita ingin menggabungkan data String dengan variabel String ataupun dengan angka, kita perlu memperhatikan ilustrasi berikut.
 
-![String dan Variabel](assets/image-20200711063540278.png)
+![String dan Variabel](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200711063540278.png)
 
 Perlu diingat, bahwa String hanya bisa digabung dengan String juga, atau dengan tipe data primitif. Selain itu kita tidak bisa menggabungkan data String.
 
@@ -1552,7 +1552,7 @@ Kode program di atas adalah contoh auto casting. Yaitu secara otomatis mengubah 
 
 Secara umum, semua angka di dalam Java di anggap sebagai data int. Pada kode program di atas, angka `12` adalah data int. Sehingga proses sebenarnya adalah data int di-casting ke tipe data short. Perhatikan ilustrasi berikut!
 
-![image-20200809075822605](assets\image-20200809075822605.png)
+![image-20200809075822605](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200809075822605.png)
 
 Proses ini tidak memerlukan campur tangan programmer, Java otomatis mengenali hal ini dan akan otomatis melakukan konversi. Konsep ini cukup sederhana, apabila variabel yang digunakan cukup untuk menyimpan datanya, maka Java akan otomatis mengubah tipe data sesuai dengan variabelnya. Tapi kalo variabelnya terlalu kecil atau tidak sesuai, maka perlu dilakukan manual casting.
 
@@ -1573,7 +1573,7 @@ public class ManualCasting {
 
 Variabel nilai adalah int, atau bilangan bulat. Sedangkan operasi `25.0 / 7` secara default akan menghasilkan data double (berkoma). Apabila kode program ini dijalankan, Java akan memberikan pesan error bahwa konversi dari double ke int akan memiliki potensi kehilangan angka di belakang koma.
 
-![image-20200809081534736](assets\image-20200809081534736.png)
+![image-20200809081534736](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200809081534736.png)
 
 Kemungkinan kehilangan angka di belakang koma ini akan langsung diketahui oleh Java. Pada kode program ini, Java tidak mengizinkan kode tersebut dieksekusi. Kalo program tersebut dijalankan, programmer tidak akan sadar kalo hasil perhitungan bisa saja salah, dan itu sangat fatal.
 

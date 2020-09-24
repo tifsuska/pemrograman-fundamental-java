@@ -30,7 +30,7 @@ Dengan adanya keempat hal tersebut, dalam implementasinya kita harus mampu mengi
 
 Sebenarnya flowchart tidak punya diagram khusus untuk perulangan. Di dalam pembuatan flowchart, perulangan dikonversi menjadi percabangan. Perhatikan diagram berikut ini!
 
-![image-20200821054139263](assets\image-20200821054139263.png)
+![image-20200821054139263](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200821054139263.png)
 
 Jika diperhatikan flowchart tersebut, lengkap ada 4 komponen penting di dalam sebuah perulangan, yaitu:
 

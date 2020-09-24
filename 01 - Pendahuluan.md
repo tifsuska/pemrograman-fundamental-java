@@ -112,7 +112,7 @@ Sebelum belajar tentang programming fundamentals, ada baiknya kita mengetahui ta
 
 Kenapa prosesnya menggunakan istilah **Life Cycle**? Karena proses ini **tidak ada finishnya**. Setelah sampai pada proses terakhir, maka kita akan ulangi proses awal dengan requirement yang baru lagi. Perhatikan gambar berikut!
 
-![SDLC](assets/sdlc.png)
+![SDLC](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/sdlc.png)
 
 Proses development (menulis kode program) berada di tengah-tengah proses lainnya. Ini menunjukkan bahwa dalam membuat sebuah program, **proses pengkodingan program bukanlah proses utama** yang harus kita lakukan dalam membuat aplikasi. Tapi hanya sebagian dari proses-proses besar yang harus dikerjakan berurutan.
 
@@ -122,7 +122,7 @@ Di dalam proses development inilah kita belajar tentang **programming fundamenta
 
 Materi ini tentunya kita akan fokus untuk pembentukkan karakter diri agar terbiasa menulis kode program, terbiasa berpikir ala programmer dan terbiasa dengan hal-hal baru dan konsep baru di dalam pemrograman.
 
-![Proses Development](assets/dev.png)
+![Proses Development](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/dev.png)
 
 Kita masih ada beberapa tahapan lagi yang harus kita selesaikan dengan benar, supaya akhirnya kita bisa membuat sebuah program yang layak untuk digunakan.
 

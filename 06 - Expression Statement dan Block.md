@@ -26,17 +26,17 @@ public class Expression {
 
 Dari kode program di atas kita akan identifikasi yang mana yang namanya expression. Perhatikan ilustrasi berikut!
 
-![image-20200816232216230](assets\image-20200816232216230.png)
+![image-20200816232216230](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200816232216230.png)
 
 Data angka `10` adalah expression, karena itu adalah data, berbentuk angka dengan nilai `10`. Kita coba dengan ilustrasi berikutnya, perhatikan!
 
-![image-20200816232450875](assets\image-20200816232450875.png)
+![image-20200816232450875](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200816232450875.png)
 
 Kode `nilai = 10` juga adalah expression, selama tidak kita masukkan tanda `;` (titik-koma) maka kode tersebut adalah expression. 
 
 Perhatikan lagi ilustrasi berikut ini!
 
-![image-20200816233600470](assets\image-20200816233600470.png)
+![image-20200816233600470](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200816233600470.png)
 
 Pada kode program di atas, kode `5` dan `nilai + 5` dan `nilai = nilai + 5` adalah expression, selama tidak memasukkan tanda `;` (titik-koma).
 
