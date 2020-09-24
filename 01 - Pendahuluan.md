@@ -112,7 +112,7 @@ Sebelum belajar tentang programming fundamentals, ada baiknya kita mengetahui ta
 
 Kenapa prosesnya menggunakan istilah **Life Cycle**? Karena proses ini **tidak ada finishnya**. Setelah sampai pada proses terakhir, maka kita akan ulangi proses awal dengan requirement yang baru lagi. Perhatikan gambar berikut!
 
-![SDLC](assets\sdlc.png)
+![SDLC](assets/sdlc.png)
 
 Proses development (menulis kode program) berada di tengah-tengah proses lainnya. Ini menunjukkan bahwa dalam membuat sebuah program, **proses pengkodingan program bukanlah proses utama** yang harus kita lakukan dalam membuat aplikasi. Tapi hanya sebagian dari proses-proses besar yang harus dikerjakan berurutan.
 
