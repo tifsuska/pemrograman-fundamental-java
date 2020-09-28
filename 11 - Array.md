@@ -586,3 +586,4 @@ Cara kedua, sangat sederhana namun sangat panjang sekali. Kita menentukan satu p
 
 ## Tugas
 
+Buatlah sebuah resume tentang materi yang telah kita pelajari pada bab ini. Silahkan gunakan narasi masing-masing!

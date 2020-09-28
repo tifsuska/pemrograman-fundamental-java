@@ -48,3 +48,4 @@ public class BelajarStaticMethod {
 
 ## Tugas
 
+Buatlah sebuah resume tentang materi yang telah kita pelajari pada bab ini. Silahkan gunakan narasi masing-masing!

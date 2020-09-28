@@ -416,3 +416,5 @@ Perhatikan kode program berikut, kemudian jelaskan bagaimana kode program terseb
    
 
 ## Tugas
+
+Buatlah sebuah resume tentang materi yang telah kita pelajari pada bab ini. Silahkan gunakan narasi masing-masing!

@@ -350,3 +350,5 @@ Perhatikan kode program berikut, kemudian jelaskan bagaimana program tersebut da
    
 
 ## Tugas
+
+Buatlah sebuah resume tentang pemahaman anda mengenai materi pada bab ini. Gunakan narasi masing-masing disertai contoh-contoh yang relevan!

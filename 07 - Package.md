@@ -142,3 +142,17 @@ public class Main {
 ```
 
 Dengan menambahkan keyword import kita dapat melakukan pemanggilan terhadap class-class lain di packages yang berbeda.
+
+## Latihan
+
+Perhatikan nama domain berikut, kemudian buatlah nama package yang baik berdasarkan nama domain tersebut!
+
+1. hynusantara.com 
+2. affandes.com
+3. api.affandes.com
+4. global-resource.net/home
+5. dev.global-resource.net
+
+## Tugas
+
+Buatlah sebuah resume tentang materi package pada bab ini. Tambahkan materi dari sumber yang lain, sertakan sumber referensinya!

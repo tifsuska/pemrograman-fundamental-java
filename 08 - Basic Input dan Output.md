@@ -131,6 +131,16 @@ public class InScanner {
 
 Ketika membuat input menggunakan Scanner, kita dapat mengambil berbagai macam tipe data sekaligus sesuai dengan kebutuhan. 
 
+### Latihan memahami Scanner
+
+Buatlah kode program yang mengambil input menggunakan Scanner sesuai dengan deskripsi masing-masing soal!
+
+1. Input data nama dan tanggal lahir.
+2. Input data nama barang dan harga barang.
+3. Input data KTP
+4. Input data username dan password
+5. Input data transfer bank
+
 ## Input Buffered Reader
 
 Sama halnya dengan Scanner, BufferedReader dapat digunakan untuk mengambil data input dari keyboard. Perhatikan kode program berikut!
@@ -221,6 +231,16 @@ Perhatikan kode `Integer.parseInt()` pada kode program di atas! Method `parseInt
 | 2    | double    | Double.parseDouble()   |
 | 3    | boolean   | Boolean.parseBoolean() |
 
+### Latihan memahami Buffered Reader
+
+Buatlah kode program yang mengambil input menggunakan Buffered Reader sesuai dengan deskripsi masing-masing soal!
+
+1. Input data nama dan tanggal lahir.
+2. Input data nama barang dan harga barang.
+3. Input data KTP
+4. Input data username dan password
+5. Input data transfer bank
+
 ## Input File
 
 Kita bisa mengambil input data dari file. Kode berikut adalah contoh program untuk mengakses data di dalam file.
@@ -280,6 +300,8 @@ Selanjutnya import tersebut dapat kita sederhanakan menjadi seperti berikut!
 import java.io.IOException;
 import java.nio.*;
 ```
+
+
 
 ## Output File
 
@@ -375,3 +397,6 @@ public class InScanner {
 }
 ```
 
+## Tugas
+
+Buatlah resume tentang basic input dan output yang telah anda pelajari. Gunakan narasi yang mudah dipahami.

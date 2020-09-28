@@ -921,7 +921,7 @@ Perhatikan kode program berikut ini. Identifikasi kesalahan dalam penggunaan dek
        public static void main(String[] args) {
            
            String nama, nim;
-           nim = "1234";
+           nim = "1234",
            nama = "Andi";
            
        }
@@ -1039,13 +1039,10 @@ public class TipeData {
 Di dalam pemrograman Java, terdapat beberapa tipe data yang dapat digunakan dalam pemrograman. Berikut adalah kategori dari tipe data di Java:
 
 1. Tipe data primitif
-Tipe data primitif di Java adalah tipe data yang memang sudah built-in (bawaan) dan merupakan tipe data dasar di Java. Tipe data primitif terbagi menjadi beberapa bagian. Secara rinci dapat di perhatikan ilustrasi berikut.
-   
-![Tipe Data Primitif](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/tipe-data-primitif.png)
-   
-Tipe data primitif yang dapat digunakan pada Java berjumlah 8 tipe data (simbol kotak abu-abu). Kita dapat menggunakan tipe data tersebut sesuai kebutuhan. Perhatikan kode program berikut.
-   
-```java
+   Tipe data primitif di Java adalah tipe data yang memang sudah built-in (bawaan) dan merupakan tipe data dasar di Java. Tipe data primitif terbagi menjadi beberapa bagian. Secara rinci dapat di perhatikan ilustrasi berikut.
+   ![Tipe Data Primitif](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/tipe-data-primitif.png)
+   Tipe data primitif yang dapat digunakan pada Java berjumlah 8 tipe data (simbol kotak abu-abu). Kita dapat menggunakan tipe data tersebut sesuai kebutuhan. Perhatikan kode program berikut.
+   ```java
    public class TipeData {
        public static void main(String[] args) {
            
@@ -1063,10 +1060,8 @@ Tipe data primitif yang dapat digunakan pada Java berjumlah 8 tipe data (simbol 
        }
    }
    ```
-   
-Kode program di atas adalah contoh penggunaan tipe data primitif pada saat inisialisasi variabel. Setiap kali membuat sebuah variabel, pastikan kita menentukan tipe datanya terlebih dahulu. Ketika tipe data sudah ditentukan, maka kita tidak dapat melakukan perubahan tipe data ataupun perubahan nama variabel.
-   
-```java
+   Kode program di atas adalah contoh penggunaan tipe data primitif pada saat inisialisasi variabel. Setiap kali membuat sebuah variabel, pastikan kita menentukan tipe datanya terlebih dahulu. Ketika tipe data sudah ditentukan, maka kita tidak dapat melakukan perubahan tipe data ataupun perubahan nama variabel.
+   ```java
    public class TipeData {
        public static void main(String[] args) {
            
@@ -1077,11 +1072,10 @@ Kode program di atas adalah contoh penggunaan tipe data primitif pada saat inisi
        }
    }
    ```
-   
-Kode program di atas akan error karena variabel nilai tidak dapat diinisialisasi ulang menjadi tipe data yang berbeda.
-   
+   Kode program di atas akan error karena variabel nilai tidak dapat diinisialisasi ulang menjadi tipe data yang berbeda.
+
 2. Tipe data non-primitif
-Sedangkan tipe data non-primitif merupakan class yang digunakan sebagai tipe data. Kita dapat membuat tipe data sendiri menggunakan class. Salah satu contoh tipe data non-primitif adalah String. 
+   Sedangkan tipe data non-primitif merupakan class yang digunakan sebagai tipe data. Kita dapat membuat tipe data sendiri menggunakan class. Salah satu contoh tipe data non-primitif adalah String. 
 
 ## Tipe data String
 

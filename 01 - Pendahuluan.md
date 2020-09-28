@@ -138,7 +138,8 @@ Jawablah pertanyaan berikut ini sesuai dengan kemampuan anda!
 
 Kerjakan tugas-tugas berikut ini sesuai dengan kondisi dan situasi yang anda alami.
 
-1. Apakah semua persiapan di atas masih ada yang belum ada persiapkan? Jika ada, coba buatkan daftar kendala apa saja yang menghalangi anda mempersiapkan hal tersebut! Minimal 1 kendala.
+1. Apakah semua persiapan di atas masih ada yang belum ada persiapkan? Jika ada, coba buatkan daftar kendala apa saja yang menghalangi anda mempersiapkan hal tersebut! 
+2. Jelaskan mengapa kendala-kendala tersebut belum bisa anda penuhi!
 
 ### Software Development Life Cycle
 

@@ -80,7 +80,7 @@ Pada kode program di atas, Java akan menjalankan kode program `System.out.printl
 
 Walaupun kode program yang kita buat panjang, Java hanya melihat kode program yang ada di dalam blok psvm.
 
-Hanya saja, blok psvm HARUS dibuat di dalam blok class. Dari contoh-contoh di atas, dapat kita lihat bahwa blok psvm dibuat di dalam blok **class Salam** dan blok **class Mahasiswa**.
+**Hanya saja**, blok psvm HARUS dibuat di dalam blok class. Dari contoh-contoh di atas, dapat kita lihat bahwa blok psvm dibuat di dalam blok **class Salam** dan blok **class Mahasiswa**.
 
 ```java
 public class Salam {								// blok class Salam
@@ -284,41 +284,35 @@ Penggunaan catatan dan informasi pada kode program di atas akan memudahkan kita 
 Banyak cara yang bisa digunakan untuk membuat komentar pada Java. Kita akan bahas satu persatu cara-caranya sebagai berikut.
 
 1. Single line comment (komentar satu baris)
-Paling sering catatan yang dibuat adalah catatan singkat yang hanya satu baris. Java menggunakan karakter `//` (double slash) di awal komentar pada setiap baris. Lihat contoh berikut.
+   Paling sering catatan yang dibuat adalah catatan singkat yang hanya satu baris. Java menggunakan karakter `//` (double slash) di awal komentar pada setiap baris. Lihat contoh berikut.
    
-```java
-   ...
-   	// Komentar singkat
-   	int nilai = 10;
-   	double pi = 3.14;
-   ...
+   ```java
+   // ...
+   // Komentar singkat
+   int nilai = 10;
+   double pi = 3.14;
+   // ...
    ```
-   
-Kita dapat membuat komentar di atas kode program yang akan kita komentari. Tidak ada batasan membuat komentar. Hanya saja komentar yang lebih dari satu baris harus menggunakan karakter `//` di awal setiap baris komentarnya. Lihat contoh berikut.
-   
-```java
-   ...
-       // Deklarasi variabel
-       // nilai dan pi
-       int nilai;
-   	double pi = 3.14;
-   ...
+   Kita dapat membuat komentar di atas kode program yang akan kita komentari. Tidak ada batasan membuat komentar. Hanya saja komentar yang lebih dari satu baris harus menggunakan karakter `//` di awal setiap baris komentarnya. Lihat contoh berikut.
+   ```java
+   // ...
+   // Deklarasi variabel
+   // nilai dan pi
+   int nilai;
+   double pi = 3.14;
+   // ...
    ```
-   
-Cara di atas masih dimaklumi, namun tidak direkomendasikan. Karena kita masih bisa membuat komentar tersebut menjadi satu baris saja. Tapi, kalau memang kita ingin membuat komentar yang cukup panjang, ada baiknya kita gunakan multiline comment.
+   Cara di atas masih dimaklumi, namun tidak direkomendasikan. Karena kita masih bisa membuat komentar tersebut menjadi satu baris saja. Tapi, kalau memang kita ingin membuat komentar yang cukup panjang, ada baiknya kita gunakan multiline comment.
    Single line comment juga dapat digunakan di akhir sebuah baris kode program. Perhatikan contoh berikut.
-
    ```java
-...
-       int nilai = 10; // nilai awal
-   	double pi = 3.14; // sebaiknya pake Math.PI
-   ...
+   // ...
+   int nilai = 10; // nilai awal
+   double pi = 3.14; // sebaiknya pake Math.PI
+   // ...
    ```
-   
    Membuat komentar di ujung setiap baris kode program dapat memudahkan kita membuat catatan rinci untuk satu baris tersebut. Sedangkan komentar di atas kode program bisa digunakan untuk catatan yang lebih umum. Perhatikan contoh komentar berikut ini.
-
-   ```java
-// Program algoritma Bubble Sort
+      ```java
+   // Program algoritma Bubble Sort
    public class BubbleSortBasic {
        public static void main(String[] args) {
            
@@ -343,14 +337,12 @@ Cara di atas masih dimaklumi, namun tidak direkomendasikan. Karena kita masih bi
            }
        }
    }
-   ```
-   
+      ```
    Semua dapat kita kasih komentar sesuai kebutuhan. Agar kode program yang kita buat dapat memudahkan kita mengingat kembali dan bahkan memahami kembali kode program tersebut.
-
-2. Multiline comment (komentar banyak baris)
-Komentar dalam bentuk satu baris sangat praktis namun memiliki kekurangan. Perhatikan kode program berikut.
    
-```java
+2. Multiline comment (komentar banyak baris)
+   Komentar dalam bentuk satu baris sangat praktis namun memiliki kekurangan. Perhatikan kode program berikut.
+   ```java
    public class FiboSimple {
        public static void main(String[] args) {
            
@@ -383,19 +375,17 @@ Komentar dalam bentuk satu baris sangat praktis namun memiliki kekurangan. Perha
     	}
    }
    ```
-   
    Penggunaan komentar di atas terasa sangat detail. Ini menyebabkan kita sebagai programmer justru semakin tidak terbantu. Penggunaan komentar yang terlalu banyak menunjukkan kode program tersebut perlu untuk dijelaskan dengan catatan yang lengkap.
    Multiline comment dapat digunakan untuk permasalahan tadi. Dengan membuat komentar yang lengkap, kita justru lebih terbantu dalam memahami kode program. Perhatikan kode program berikut.
-   
-      ```java
+   ```java
    public class FiboSimple {
        public static void main(String[] args) {
-   
+
            // Deklarasi x0, x1 dan n
            int x0 = 0;
            int x1 = 1;
            int n = 10;
-   
+       
            /*
                * Jika n = 0 ==> x = 0
                * Jika n = 1 ==> x = 1
@@ -415,11 +405,10 @@ Komentar dalam bentuk satu baris sangat praktis namun memiliki kekurangan. Perha
                    x1 = fn;
                }
            }
-   
+       
        }
    }
-      ```
-   
+   ```
    Dengan menggunakan multiline comment kita bisa membuat catatan penjelasan yang lebih baik tentang kode program yang kita buat. Sehingga mengurangi jumlah komentar di dalam kode program. Karena terlalu banyak komentar dalam kode program juga akan mengganggu.
 
 ## Bagaimana jika terjadi error
@@ -477,5 +466,5 @@ Jawablah pertanyaan berikut sesuai dengan pemahaman masing-masing!
 
 ## Tugas
 
-Carilah sebuah program sederhana dengan jumlah baris kurang dari 20 baris di internet. Kemudian ketik ulang kode programnya menggunakan aturan-aturan penulisan yang benar.
+Carilah sebuah program sederhana dengan jumlah baris kurang dari 20 baris di internet. Kemudian ketik ulang kode programnya menggunakan aturan-aturan penulisan yang benar. Jangan lupa sertakan juga komentar yang diperlukan di dalam kode program tersebut!
 

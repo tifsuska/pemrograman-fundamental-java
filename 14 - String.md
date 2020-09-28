@@ -207,6 +207,6 @@ compareTo: -32
 
 Angka negatif yang muncul pada output yang merupakan hasil dari method `compareTo()` yang menandakan bahwa `teks1` secara leksikal lebih kecil dari `teks2`.
 
-
-
 ## Tugas
+
+Buatlah sebuah resume tentang materi yang telah kita pelajari pada bab ini. Silahkan gunakan narasi masing-masing!

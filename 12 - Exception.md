@@ -163,3 +163,5 @@ public class SimpelExc {
 Kode program di atas juga menghasilkan output yang sama persis dengan kode sebelumnya. Sehingga ada atau tidak ada blok finally hasilnya akan sama.
 
 ## Tugas
+
+Buatlah sebuah resume tentang materi yang telah kita pelajari pada bab ini. Silahkan gunakan narasi masing-masing!

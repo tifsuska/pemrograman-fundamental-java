@@ -69,7 +69,7 @@ Dengan melihat tabel di atas kita bisa mengetahui struktur dasar dari program ya
 
 ### Latihan
 
-Perhatikan kasus-kasus berikut ini, kemudian buatlah tabel yang menentukan input, proses dan output dari masing-masing kasus.
+Perhatikan kasus-kasus berikut ini, kemudian buatlah tabel yang menentukan input, proses dan output dari masing-masing kasus. Silahkan kerjakan soal-soal berikut sesuai pemahaman anda masing-masing.
 
 1. Program menghitung luas lingkaran
 2. Program kasir supermarket
@@ -82,9 +82,9 @@ Perhatikan kasus-kasus berikut ini, kemudian buatlah tabel yang menentukan input
 
 Sederhananya, algoritma adalah langkah-langkah, tahapan yang dilakukan oleh program. Algoritma dasar dari sebuah program adalah strukturnya. Perhatikan algoritma berikut!
 
-1. Ambil data input
-2. Lakukan proses pada data input
-3. Keluarkan hasil proses (output)
+1. Ambil data **input**
+2. Lakukan **proses** pada data input
+3. Keluarkan hasil proses (**output**)
 
 Apapun program yang kita buat, algoritma dasarnya adalah seperti di atas. Inilah sebabnya kita perlu paham tentang algoritma dan struktur dasar sebuah program.
 
@@ -108,7 +108,7 @@ Nah, dengan demikian, kita sudah dapat simpulkan kalo setiap program yang akan k
 
 ### Latihan
 
-Perhatikan kasus-kasus berikut ini! Kemudian buatlah algoritma dari masing-masing program berikut mengikuti pola input, proses dan output.
+Perhatikan kasus-kasus berikut ini! Kemudian buatlah algoritma dari masing-masing program berikut mengikuti pola input, proses dan output. Silahkan kerjakan soal-soal berikut sesuai pemahaman anda masing-masing.
 
 1. Program menghitung luas lingkaran
 2. Program kasir supermarket
@@ -153,7 +153,7 @@ Pseudocode juga bisa dibuat dalam bahasa Indonesia, bebas aja. Namun pastikan or
 
 ### Latihan
 
-Perhatikan kasus-kasus berikut ini! Kemudian buatlah pseudocode dari masing-masing program berikut.
+Perhatikan kasus-kasus berikut ini! Kemudian buatlah pseudocode dari masing-masing program berikut. Silahkan kerjakan soal-soal berikut sesuai pemahaman anda masing-masing.
 
 1. Program menghitung luas lingkaran
 2. Program kasir supermarket
@@ -178,7 +178,7 @@ Selain keenam simbol di atas, masih ada beberapa simbol lainnya yang juga ada pa
 
 ### Latihan
 
-Perhatikan kasus-kasus berikut ini! Kemudian buatlah diagram alir (flowchart) dari masing-masing program berikut.
+Perhatikan kasus-kasus berikut ini! Kemudian buatlah diagram alir (flowchart) dari masing-masing program berikut. Silahkan kerjakan soal-soal berikut sesuai pemahaman anda masing-masing.
 
 1. Program menghitung luas lingkaran
 2. Program kasir supermarket

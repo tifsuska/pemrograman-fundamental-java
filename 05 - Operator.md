@@ -107,7 +107,7 @@ Operator yang paling sering adalah operator assignment, yaitu simbol `=` (sama d
 
 ![image-20200816102424343](https://raw.githubusercontent.com/tifsuska/pemrograman-fundamental-java/master/assets/image-20200816102424343.png)
 
-Operator ini hanya ada satu saja, yaitu `=` (sama dengan).
+Selain operator sama dengan `=` juga terdapat operator lain yang dapat kita gunakan pada kode program, yaitu:
 
 | No   | Simbol | Contoh | Deskripsi                           |
 | ---- | ------ | ------ | ----------------------------------- |
@@ -1265,3 +1265,5 @@ Perhatikan kode program berikut, jelaskan bagaimana kode program tersebut dijala
    
 
 ## Tugas
+
+Buatlah sebuah resume tentang materi yang telah kita pelajari pada bab ini. Silahkan gunakan narasi masing-masing!
