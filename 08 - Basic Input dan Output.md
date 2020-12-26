@@ -332,6 +332,8 @@ public class OutputFile {
 
 Jika kode program ini dijalankan, maka akan muncul sebuah file baru dengan nama `save.txt` pada folder `src`. Silahkan dicoba.
 
+
+
 ## Formating
 
 Menampilkan teks ke layar juga merupakan teknik dasar dalam pemrograman Java. Biasanya kita menggunakan kode `System.out.println()` untuk menampilkan teks pada console. Selain kode tadi, kita bisa gunakan kode lain yang dapat diformat sesuai kebutuhan. Perhatikan kode program berikut ini!

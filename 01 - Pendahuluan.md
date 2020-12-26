@@ -1,4 +1,4 @@
-# Pemrograman Fundamental: Pendahuluan
+# Pemrograman Fundamental: Pemrograman Fundamental: Pendahuluan
 
 > Banyak orang tahu cara menggunakan komputer, tapi hanya sedikit saja yang melanjutkan untuk belajar mengendalikannya (Paul Barry & David Griffiths, 2009)
 
@@ -72,7 +72,7 @@ Sediakan waktu untuk belajar. Carilah waktu-waktu dimana kondisi kita sedang fit
 3. Bahan dan referensi
 Jangan hanya belajar dari satu sumber referensi saja. Usahakan **baca dan tonton dari berbagai sumber** untuk mendapatkan pengayaan materi dan pemahaman. Kita berharap dengan selesainya materi Pemrograman Fundamental ini, kita dapat lanjut kepada materi yang lebih advance.
 
-## System Development Life Cycle (SDLC)
+## Software Development Life Cycle (SDLC)
 
 Sebelum belajar tentang Pemrograman Fundamental, ada baiknya kita mengetahui tahapan umum dalam membuat sebuah program dari awal sampai jadi produk. Tahapan ini biasanya dikenal dengan istilah Software Development Life Cycle (SDLC). Apa aja tahapannya?
 

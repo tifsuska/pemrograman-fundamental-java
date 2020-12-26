@@ -216,7 +216,7 @@ public class CekFile {
         } else {
             System.out.println("File siap diproses.");
 
-            // Copy file
+            // Move file
             try {
                 Path target = Paths.get("src/hello-new.txt");
                 Files.move(file, target, StandardCopyOption.ATOMIC_MOVE);
@@ -237,4 +237,5 @@ Kita juga dapat menggunakan `CopyOption` yang sama dengan method `Files.copy()`.
 
 ## Menulis dan membaca file
 
-Materi tentang menulis dan membaca file dijelaskan pada 
+Materi tentang menulis dan membaca file dijelaskan pada Bab 08 Basic Input dan Output.
+
