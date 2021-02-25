@@ -172,7 +172,7 @@ Buku-buku di atas dapat kita manfaatkan sebagai bahan bacaan utama dan pendukung
 
 ------
 
-## Yuk mulai!
+## Yuk mulai!!
 
 Jika sudah siap, yuk kita mulai **[materi pertama (Pendahuluan)](01 - Pendahuluan.md)**!
 
